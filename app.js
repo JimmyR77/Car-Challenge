@@ -12,7 +12,7 @@ class Vehicle {
     }
 
     toString() {
-        return `The vehicle is a ${this.make} ${this.model} ${this.year}}.`;
+        return `The vehicle is a ${this.make} ${this.model} ${this.year}.`;
     }
 }
 
